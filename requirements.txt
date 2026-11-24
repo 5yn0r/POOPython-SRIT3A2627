@@ -1,0 +1,3 @@
+# Version effectivement vérifiée avec Python 3.12.14.
+# Le cœur du projet et les ateliers utilisent la bibliothèque standard.
+matplotlib==3.10.8
